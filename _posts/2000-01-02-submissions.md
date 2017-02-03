@@ -15,4 +15,5 @@ All accepted papers (subject to post-review revisions) will be published in the
 IEEE CLUSTER Conference Proceedings, provided that at least one author is registered
 for the conference.
 
-Papers should be submitted using EasyChair.
+Papers should be submitted using
+(EasyChair)[https://easychair.org/conferences/?conf=wrap2017].
