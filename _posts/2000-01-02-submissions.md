@@ -16,4 +16,4 @@ IEEE CLUSTER Conference Proceedings, provided that at least one author is regist
 for the conference.
 
 Papers should be submitted using
-(EasyChair)[https://easychair.org/conferences/?conf=wrap2017].
+[EasyChair](https://easychair.org/conferences/?conf=wrap2017).

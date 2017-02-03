@@ -5,11 +5,11 @@ color: white
 fa-icon: plug
 ---
 
-# Workshop Organizers
+## Workshop Organizers
 
 - Tom Scogland, LLNL
 - David Beckingsale, LLNL
 
-# Technical Committee
+## Technical Committee
 
 Coming soon.
